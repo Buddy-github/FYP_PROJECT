@@ -6,3 +6,11 @@ pagefile.sys
 .idea/ 
 .vscode/ 
 .DS_Store 
+$RECYCLE.BIN/ 
+System Volume Information/ 
+pagefile.sys 
+*.log 
+*.tmp 
+.idea/ 
+.vscode/ 
+.DS_Store 
